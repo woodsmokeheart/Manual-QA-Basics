@@ -19,7 +19,7 @@
 - [📋 Важные HTTP заголовки](./важные-http-заголовки.md)
 - [🔒 HTTP vs HTTPS](./http-vs-https.md)
 - [🍪 Cookies и Sessions](./cookies-и-sessions.md)
-- REST API принципы *(в разработке)*
+- [🎯 REST API принципы](./rest-api-принципы.md)
 
 ---
 
