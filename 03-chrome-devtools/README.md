@@ -7,6 +7,7 @@
 ## 📋 СОДЕРЖАНИЕ РАЗДЕЛА
 
 - [🔧 Основы DevTools](./основы-devtools.md)
+- [📱 Device Mode (мобильные устройства)](./device-mode-мобильные-устройства.md)
 - [📊 Elements панель](./elements-панель.md)
 - [💻 Console панель](./console-панель.md)
 - [📁 Sources панель](./sources-панель.md) *(в разработке)*
