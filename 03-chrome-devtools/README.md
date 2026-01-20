@@ -7,7 +7,7 @@
 ## 📋 СОДЕРЖАНИЕ РАЗДЕЛА
 
 - [🔧 Основы DevTools](./основы-devtools.md)
-- [📊 Elements панель](./elements-панель.md) *(в разработке)*
+- [📊 Elements панель](./elements-панель.md)
 - [💻 Console панель](./console-панель.md) *(в разработке)*
 - [📁 Sources панель](./sources-панель.md) *(в разработке)*
 - [🌐 Network панель](./network-панель.md) *(в разработке)*
